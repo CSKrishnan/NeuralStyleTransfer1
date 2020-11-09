@@ -90,6 +90,23 @@
 49                android:resource="@xml/provider_paths" />
 49-->[:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
 50        </provider>
-51    </application>
-52
-53</manifest>
+51        <provider
+51-->[:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+52            android:name="cl.json.RNShareFileProvider"
+52-->[:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-55
+53            android:authorities="com.mytestapp.rnshare.fileprovider"
+53-->[:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-72
+54            android:exported="false"
+54-->[:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+55            android:grantUriPermissions="true" >
+55-->[:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+56            <meta-data
+56-->[:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+57                android:name="android.support.FILE_PROVIDER_PATHS"
+57-->[:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+58                android:resource="@xml/share_download_paths" />
+58-->[:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+59        </provider>
+60    </application>
+61
+62</manifest>

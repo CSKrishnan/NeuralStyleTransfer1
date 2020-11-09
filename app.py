@@ -14,13 +14,7 @@ import base64
 from style import draw_image_stylized
  
 app = Flask(__name__)
- 
-@app.route('/styletransfer', methods=['POST'])
-def stylize():
-    savename = "images/flaskimage.png" 
-    draw_image_stylized("images/webster.jpg", "images/orphism.jpg", savename=savename)
-    return send_file(savename, mimetype='image/png')
- 
+  
 def convert_binary_to_image(filename, binary):
     fd = open(filename, 'wb')
     fd.write(binary)
@@ -34,18 +28,12 @@ def save(encoded_data, filename):
     
 @app.route('/baseImages', methods=['POST'])
 def upload_and_generate():
-    #print("Test Test",request.form)
-    #print(request.form['contentImage'])
     if request.method == 'POST':
         content_image = request.form['contentImage']
         style_image = request.form['styleImage']
-        
         draw_image_stylized(content_image, style_image, savename='images/' + request.form['savename'])
         print("hiwdqwwqewq")
         with open('images/' + request.form['savename'], 'rb') as image_file:
             encoded_image = base64.b64encode(image_file.read()) 
         encoded_image= str('data:image/jpeg;base64,')+encoded_image.decode('utf-8')
-        print("**************************************************")
-        print(encoded_image)
-        #print("encoded")    
         return "encoded_image"

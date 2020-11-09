@@ -12,6 +12,8 @@ target 'MyTestApp' do
 
   pod 'react-native-image-base64', :path => '../node_modules/react-native-image-base64'
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'MyTestAppTests' do
     inherit! :complete
     # Pods for testing

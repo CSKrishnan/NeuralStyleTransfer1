@@ -176,6 +176,10 @@
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_share_download_paths.xml.flat",
+        "source": "D:\\ReactNativeFlask\\MyTestApp\\node_modules\\react-native-share\\android\\build\\intermediates\\packaged_res\\debug\\xml\\share_download_paths.xml"
+    },
+    {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\639e914bfc1efa21e36199d3ff2c5eef\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
@@ -932,6 +936,10 @@
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\863e0c3c6716935cd3657ad638fd992d\\material-1.1.0\\res\\color\\mtrl_chip_ripple_color.xml"
     },
     {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fps_view.xml.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\55f4ebe8657ae483df758b28add68a87\\jetified-react-native-0.63.2\\res\\layout\\fps_view.xml"
     },
@@ -1014,6 +1022,10 @@
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -1182,6 +1194,10 @@
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_primary_emphasis_high_type.xml.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\863e0c3c6716935cd3657ad638fd992d\\material-1.1.0\\res\\color\\material_on_primary_emphasis_high_type.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
@@ -1400,6 +1416,10 @@
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\863e0c3c6716935cd3657ad638fd992d\\material-1.1.0\\res\\layout\\mtrl_alert_dialog.xml"
     },
     {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1464,6 +1484,10 @@
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1474,6 +1498,10 @@
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1606,6 +1634,10 @@
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -2084,12 +2116,12 @@
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
-        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\863e0c3c6716935cd3657ad638fd992d\\material-1.1.0\\res\\layout\\mtrl_layout_snackbar_include.xml"
-    },
-    {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\863e0c3c6716935cd3657ad638fd992d\\material-1.1.0\\res\\layout\\mtrl_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -2170,6 +2202,10 @@
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\1cb9b9ea592aa2ea85233be252327dcf\\appcompat-1.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -2366,6 +2402,10 @@
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_material_on_primary_emphasis_medium.xml.flat",
         "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\863e0c3c6716935cd3657ad638fd992d\\material-1.1.0\\res\\color\\material_on_primary_emphasis_medium.xml"
+    },
+    {
+        "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\saikr\\.gradle\\caches\\transforms-2\\files-2.1\\e1a755a5eb4e9c5b244c1a9f660f0c11\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\ReactNativeFlask\\MyTestApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_slide_down.xml.flat",

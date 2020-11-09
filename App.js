@@ -14,10 +14,12 @@ class App extends React.Component {
         <NavigationContainer>
           <Stack.Navigator initialRouteName="Home">
             <Stack.Screen options={{headerShown: false}} name="Home" component={SelectImage} />
-            <Stack.Screen name="ApplyStyle" component={DisplayImage} />        
+            <Stack.Screen options={{headerShown: false}} name="ApplyStyle" component={DisplayImage}/>        
           </Stack.Navigator>
         </NavigationContainer>
     );
   }
 }
 export default App;
+
+//headerTransparent:true,headerTitleStyle: { color: 'white' },headerTintColor:'white'

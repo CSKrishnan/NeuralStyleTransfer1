@@ -8,6 +8,7 @@ MERGED from D:\ReactNativeFlask\MyTestApp\android\app\src\main\AndroidManifest.x
 MERGED from [com.facebook.flipper:flipper:0.37.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\623174cd4892d9fb924ac44b102b25c0\flipper-0.37.0\AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\a65d6076e19ec393c728e4dca49568f4\flipper-network-plugin-0.37.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\4c2d2364c35e2c493fd776ce36e653fa\flipper-fresco-plugin-0.37.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_cameraroll] D:\ReactNativeFlask\MyTestApp\node_modules\@react-native-community\cameraroll\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_masked-view] D:\ReactNativeFlask\MyTestApp\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-image-base64] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-base64\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
@@ -15,7 +16,12 @@ MERGED from [:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modu
 MERGED from [:react-native-reanimated] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-vector-icons] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-view-shot] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-view-shot\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\55f4ebe8657ae483df758b28add68a87\jetified-react-native-0.63.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\b9604666a0b9bbe1ab905eeb5622e5c4\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\c4a0854b2c4c976f5fd7b439b5911773\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\37b6f551bc5ae153b0b627de8f563815\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\6dd6245206e34676e1ee3aa6ee0f68c9\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\40741ffe3de6a11d99116b4e82d60d46\flipper-2.2.0\AndroidManifest.xml:2:1-9:12
@@ -43,12 +49,16 @@ MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\saikr\.gradle\caches\tra
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\c062602fe4e1f75f724363688044d993\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\c99af001058cd5265376dded8456f828\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\40f1c5d439eea30faeaafe93e7bdf45f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\1b42f88dea3794bc67b44839b4ca1a7b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\faa15558a5d57e35e462c9e1f0248694\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\89bcabef273c834c0566b445ed28172c\activity-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\4300f0cd89d6453d731712a999b6e53f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\f53bca436baf2a2670073f8750b0b7d5\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\e0a79d4379c4eef3803202a497c19313\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\820068d4be612586a05a9daff9be7b77\transition-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\6bd464ed06f075f4e42b3fde6a89e60a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\e1a755a5eb4e9c5b244c1a9f660f0c11\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\8dc6c78d6d7c962ba02416981491cd60\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\639e914bfc1efa21e36199d3ff2c5eef\core-1.1.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3b41f2ef3d4a30256bbd9d1017371108\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\2786c84c1e653e40bd67508414ca298f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
@@ -60,6 +70,9 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\saikr\.gradle\caches
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\4da6ddd3c71dbaec92b0fdf3bbca4ce7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\2ef959591ee3dfd7e7d0f130ebacb270\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\babedcb26ba2505096ea9fb87ec93180\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\d78ae12d9aa12e93077461f94a53335b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3d5c1e204ac62dc0f6d5059f5e3eaa42\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\37c50c3790fd1f696b8c9e7a44956408\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3dcbfe15c31dc75e66a0a981bf1ad806\annotation-0.8.2\AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\0eb8f1772e8d631e3b02770e697d3c89\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\c114d4501470930b3986c4f9bd2da0fd\ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
@@ -105,6 +118,8 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\ReactNativeFlask\MyTestApp\android\app\src\main\AndroidManifest.xml:7:5-80
 MERGED from D:\ReactNativeFlask\MyTestApp\android\app\src\main\AndroidManifest.xml:7:5-80
 MERGED from D:\ReactNativeFlask\MyTestApp\android\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+MERGED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
 	android:name
 		ADDED from D:\ReactNativeFlask\MyTestApp\android\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.INTERNET
@@ -121,6 +136,8 @@ MERGED from D:\ReactNativeFlask\MyTestApp\android\app\src\main\AndroidManifest.x
 MERGED from D:\ReactNativeFlask\MyTestApp\android\app\src\main\AndroidManifest.xml:10:5-32:19
 MERGED from [:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
 MERGED from [:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\55f4ebe8657ae483df758b28add68a87\jetified-react-native-0.63.2\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\55f4ebe8657ae483df758b28add68a87\jetified-react-native-0.63.2\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.8.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\fe63e2f04783b5c513186b2b6e7e30fe\soloader-0.8.2\AndroidManifest.xml:11:5-20
@@ -195,6 +212,8 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] C:\Users\saikr\
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\a65d6076e19ec393c728e4dca49568f4\flipper-network-plugin-0.37.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\4c2d2364c35e2c493fd776ce36e653fa\flipper-fresco-plugin-0.37.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\4c2d2364c35e2c493fd776ce36e653fa\flipper-fresco-plugin-0.37.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_cameraroll] D:\ReactNativeFlask\MyTestApp\node_modules\@react-native-community\cameraroll\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_cameraroll] D:\ReactNativeFlask\MyTestApp\node_modules\@react-native-community\cameraroll\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] D:\ReactNativeFlask\MyTestApp\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] D:\ReactNativeFlask\MyTestApp\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
@@ -209,8 +228,18 @@ MERGED from [:react-native-safe-area-context] D:\ReactNativeFlask\MyTestApp\node
 MERGED from [:react-native-safe-area-context] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-view-shot\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-view-shot\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\55f4ebe8657ae483df758b28add68a87\jetified-react-native-0.63.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\55f4ebe8657ae483df758b28add68a87\jetified-react-native-0.63.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\b9604666a0b9bbe1ab905eeb5622e5c4\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\b9604666a0b9bbe1ab905eeb5622e5c4\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\c4a0854b2c4c976f5fd7b439b5911773\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\c4a0854b2c4c976f5fd7b439b5911773\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\37b6f551bc5ae153b0b627de8f563815\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\37b6f551bc5ae153b0b627de8f563815\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\6dd6245206e34676e1ee3aa6ee0f68c9\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
@@ -265,18 +294,26 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saikr\.gradle\ca
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\c99af001058cd5265376dded8456f828\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\40f1c5d439eea30faeaafe93e7bdf45f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\40f1c5d439eea30faeaafe93e7bdf45f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\1b42f88dea3794bc67b44839b4ca1a7b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\1b42f88dea3794bc67b44839b4ca1a7b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\faa15558a5d57e35e462c9e1f0248694\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\faa15558a5d57e35e462c9e1f0248694\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\89bcabef273c834c0566b445ed28172c\activity-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\89bcabef273c834c0566b445ed28172c\activity-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\4300f0cd89d6453d731712a999b6e53f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\4300f0cd89d6453d731712a999b6e53f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\f53bca436baf2a2670073f8750b0b7d5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\f53bca436baf2a2670073f8750b0b7d5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\e0a79d4379c4eef3803202a497c19313\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\e0a79d4379c4eef3803202a497c19313\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\820068d4be612586a05a9daff9be7b77\transition-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\820068d4be612586a05a9daff9be7b77\transition-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\6bd464ed06f075f4e42b3fde6a89e60a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\6bd464ed06f075f4e42b3fde6a89e60a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\e1a755a5eb4e9c5b244c1a9f660f0c11\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\e1a755a5eb4e9c5b244c1a9f660f0c11\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\8dc6c78d6d7c962ba02416981491cd60\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\8dc6c78d6d7c962ba02416981491cd60\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\639e914bfc1efa21e36199d3ff2c5eef\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\639e914bfc1efa21e36199d3ff2c5eef\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3b41f2ef3d4a30256bbd9d1017371108\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
@@ -299,6 +336,12 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\saikr\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\2ef959591ee3dfd7e7d0f130ebacb270\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\babedcb26ba2505096ea9fb87ec93180\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\babedcb26ba2505096ea9fb87ec93180\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\d78ae12d9aa12e93077461f94a53335b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\d78ae12d9aa12e93077461f94a53335b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3d5c1e204ac62dc0f6d5059f5e3eaa42\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3d5c1e204ac62dc0f6d5059f5e3eaa42\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\37c50c3790fd1f696b8c9e7a44956408\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\37c50c3790fd1f696b8c9e7a44956408\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3dcbfe15c31dc75e66a0a981bf1ad806\annotation-0.8.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:annotation:0.8.2] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\3dcbfe15c31dc75e66a0a981bf1ad806\annotation-0.8.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\saikr\.gradle\caches\transforms-2\files-2.1\0eb8f1772e8d631e3b02770e697d3c89\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
@@ -333,3 +376,13 @@ ADDED from [:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modul
 		ADDED from [:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
 	android:name
 		ADDED from [:react-native-image-picker] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-share] D:\ReactNativeFlask\MyTestApp\node_modules\react-native-share\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-55

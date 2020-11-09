@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, TouchableOpacity, Button, Image,ImageBackground
 import ImagePicker from 'react-native-image-picker';
 import img1 from '../images/img1.png';
 import {Dimensions} from 'react-native';
+
  
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
