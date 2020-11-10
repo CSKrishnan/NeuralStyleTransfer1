@@ -4,7 +4,8 @@ import numpy as np
 import PIL.Image
 import matplotlib.pyplot as plt
 import cv2
- 
+import time
+
 name_count=50
 style_predict_path = tf.keras.utils.get_file('style_predict.tflite', 'https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/int8/prediction/1?lite-format=tflite')
 style_transform_path = tf.keras.utils.get_file('style_transform.tflite', 'https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/int8/transfer/1?lite-format=tflite')
@@ -55,10 +56,9 @@ def run_style_transform(style_bottleneck, preprocessed_content_image):
 
 
 def draw_image_stylized(content_img, style_img, savename):
-    global name_count
-    name_count+=1
-    content_name='content'+str(name_count)+'.jpg'
-    style_name='style'+str(name_count)+'.jpg'
+    start=time.time()
+    content_name='content'+str(start)+'.jpg'
+    style_name='style'+str(start)+'.jpg'
     content_image=tf.keras.utils.get_file(content_name,content_img)
     style_image=tf.keras.utils.get_file(style_name,style_img)
     content_image = load_img(content_image)
@@ -66,13 +66,14 @@ def draw_image_stylized(content_img, style_img, savename):
     preprocessed_content_image = preprocess_image(content_image, 384)
 
     preprocessed_style_image = preprocess_image(style_image, 256)
+    hub_model = hub.load('https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2')
+    stylized_image = hub_model(tf.constant(content_image), tf.constant(style_image))[0]
     style_bottleneck = run_style_predict(preprocessed_style_image)
-    stylized_image = run_style_transform(style_bottleneck, preprocessed_content_image)
-
     style_bottleneck_content = run_style_predict(preprocess_image(content_image, 256))
     content_blending_ratio = 0.5 
     style_bottleneck_blended = content_blending_ratio * style_bottleneck_content + (1 - content_blending_ratio) * style_bottleneck
     stylized_image_blended = run_style_transform(style_bottleneck_blended,preprocessed_content_image)
+    
 
     converted_img = tensor_to_image((stylized_image_blended))
     converted_img.save(savename)
